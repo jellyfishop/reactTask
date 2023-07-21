@@ -1,0 +1,11 @@
+.footer{
+    padding: 20px 0px;
+    background:  rgb(32, 67, 96);
+    width: 100%;
+    margin-top: 100px;
+}
+.heading{
+    text-align: center;
+   padding: 20px;
+   color: white;
+}
